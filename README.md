@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rossshannon-weekly-weather-mcp-badge.png)](https://mseep.ai/app/rossshannon-weekly-weather-mcp)
+
 # 🌦️ Weekly Weather MCP Server
 
 A weather forecast MCP (Model Context Protocol) server providing **8-day global weather forecasts** and current weather conditions using the [OpenWeatherMap](https://openweathermap.org) [One Call API 3.0](https://openweathermap.org/api/one-call-3).
